@@ -134,6 +134,9 @@ D1 --> E1[Avoid inverted sentences and complex subordinate clauses]
 D2 --> E2[Keep unfamiliar technical terms in their original language]
 ```
 
+## Example: Education, Timeline (Chinese)
+
+![fig06](./figures/fig06.png)
 
 # License
 
