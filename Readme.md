@@ -138,6 +138,12 @@ D2 --> E2[Keep unfamiliar technical terms in their original language]
 
 ![fig06](./figures/fig06.png)
 
+### Advanced Timeline
+
+Multi-round QA, Translation, Styled timeline
+
+![fig07](./figures/fig07.png)
+
 # License
 
 Apache License Version 2.0
